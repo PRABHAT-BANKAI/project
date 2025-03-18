@@ -1,5 +1,5 @@
 import React from 'react'
-import "./services.css"
+import "./Services.css"
 import theme from "../../assets/theme.svg"
 import serviceData from "../../../public/sevicesData"
 import { FaArrowRight } from 'react-icons/fa'

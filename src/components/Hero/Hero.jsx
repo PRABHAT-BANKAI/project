@@ -1,5 +1,5 @@
 import React from 'react'
-import "./hero.css"
+import "./Hero.css"
 import profile from "../../assets/profileImg.png";
 import AnchorLink from 'react-anchor-link-smooth-scroll';
 import passwordsize from "../../assets/passwordsizeprofile.png";

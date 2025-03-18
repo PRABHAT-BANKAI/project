@@ -1,5 +1,5 @@
 import React from "react";
-import "./contact.css";
+import "./Contact.css";
 import theme from "../../assets/theme.svg";
 import { IoIosMail } from "react-icons/io";
 import { IoCall } from "react-icons/io5";

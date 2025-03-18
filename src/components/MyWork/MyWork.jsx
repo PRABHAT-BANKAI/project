@@ -1,5 +1,5 @@
 import React from 'react'
-import "./mywork.css"
+import "./Mywork.css"
 import theme from "../../assets/theme.svg"
 import myworkdata from "../../../public/myWorkData.js"  
 import { FaArrowRight } from 'react-icons/fa'

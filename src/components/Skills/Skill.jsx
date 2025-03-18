@@ -1,6 +1,6 @@
 import { FaHtml5, FaCss3Alt, FaJs, FaReact, FaNodeJs, FaGitAlt } from "react-icons/fa";
 import { SiJquery, SiBootstrap, SiTailwindcss, SiMongodb, SiExpress } from "react-icons/si";
-import "./skill.css";
+import "./Skill.css";
 import theme from "../../assets/theme.svg"
 
 const skills = [

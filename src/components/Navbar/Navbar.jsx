@@ -1,5 +1,5 @@
 import React, { useRef, useState } from "react";
-import "./navbar.css";
+import "./Navbar.css";
 import underLine from "../../assets/theme.svg";
 import AnchorLink from "react-anchor-link-smooth-scroll";
 import { FaBarsStaggered } from "react-icons/fa6";
